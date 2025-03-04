@@ -1,0 +1,11 @@
+PyPDF2
+langchain
+langchain-google-genai
+faiss-cpu
+Flask
+Werkzeug
+PyPDF2
+langchain
+langchain-google-genai
+faiss-cpu
+python-dotenv

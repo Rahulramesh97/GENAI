@@ -1,0 +1,48 @@
+# Ignore environment variables
+.env
+instance/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore uploaded files (if any)
+uploads/
+temp/
+*.tmp
+
+# Ignore FAISS index files
+faiss_index/
+
+# Ignore service account credentials (if applicable)
+service_account.json
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore compiled dependencies
+*.so
+*.dll
+*.dylib
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
